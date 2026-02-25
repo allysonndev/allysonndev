@@ -1,7 +1,7 @@
 ![Status](https://img.shields.io/badge/Full%20Stack-Developer%20in%20Progress-0A66C2?style=flat)
 ![Focus](https://img.shields.io/badge/Focus-Web%20Development-0A66C2?style=flat)
 
-Studying Integrated High School in Informatics, passionate about technology, web development, and building real projects.
+Informatics student focused on web development, currently developing an application.
 
 Reach me at:  
 allysonncordeiro@gmail.com  
