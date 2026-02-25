@@ -13,14 +13,11 @@ Focused on improving every day and becoming a professional Full Stack Developer.
 
 ## 🚀 Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ### Next Learning
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+<img src="https://skillicons.dev/icons?i=nodejs,react" />
 
 ---
 
@@ -32,9 +29,23 @@ Focused on improving every day and becoming a professional Full Stack Developer.
 
 ## 🌐 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-allysonncs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/allysonncs)
+<a href="https://instagram.com/allysonncs">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
-[![Discord](https://img.shields.io/badge/Discord-allysonncs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU-ID)
+<a href="https://discord.com/users/SEU-ID">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+---
+
+## 🌍 Community
+
+I am a member of this developer community:
+
+<a href="https://discord.gg/alura">
+  <img src="https://discordapp.com/api/guilds/740287152843128944/widget.png?style=banner2"/>
+</a>
 
 ---
 
@@ -46,10 +57,7 @@ Become a professional Full Stack Developer and build useful and impactful applic
 
 ## 📚 Currently Learning
 
-• JavaScript  
-• Git & GitHub  
-• Web Development  
-• Programming Logic  
+<img src="https://skillicons.dev/icons?i=js,git,github,vscode" />
 
 ---
 
